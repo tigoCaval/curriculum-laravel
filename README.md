@@ -11,6 +11,7 @@ Clique na imagem para visualizar o projeto
 - PHP versão 7.3.23
 - Composer versão 2.0.7 - 2020-11-13
 - Framework Laravel versão 7.30.0
+- Bootstrap 4
 
 ## Configuração
 - Testando projeto 
