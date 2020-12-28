@@ -23,3 +23,12 @@ Clique na imagem para visualizar o projeto
 6. executar comando ```php artisan config:cache```
 7. Configurar banco de dados (.env)
 8. executar comando ```php artisan migrate``` (migrar tabela sql)    
+
+## Licença
+
+Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/curriculum-laravel/blob/main/LICENSE).
+
+---
+
+[Donate/Doar](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG) - 
+Olá! Se você achou este projeto útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG). Fique à vontade para contribuir ou não.
